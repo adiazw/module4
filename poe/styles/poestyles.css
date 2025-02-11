@@ -1,0 +1,32 @@
+/* body */
+
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+background: #F0FFF0 url("../images/eye.png") no-repeat left top;
+}
+
+/*table */
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+background-color: #F5FFFA;
+padding: 1em;
+margin-bottom: 50px;
+}
+
+/* heading */ 
+
+h1 {
+padding: 15px;
+text-align: center;
+border: 2px solid black;
+border-radius: 5px;
+}
+
+/* font */
+
+* {
+font-family: Verdana;
+}
